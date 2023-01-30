@@ -1,6 +1,6 @@
 # 💼 Curriculum Vitae
 
-Simple Curriculum Vitae created based off observing end result PDF from the Complete 2021 Web Development Bootcamp by Dr. Angela Yu.
+Simple Curriculum Vitae created based off observing end result of a PDF file from the Complete 2021 Web Development Bootcamp by Dr. Angela Yu.
 
 
 ## Deployment
